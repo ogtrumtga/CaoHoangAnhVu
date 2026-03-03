@@ -1,0 +1,11 @@
+D:\CODE\CODE2026\DaiLiBaoHiem\InsuranceApp.Shared\bin\Debug\net8.0\InsuranceApp.Shared.deps.json
+D:\CODE\CODE2026\DaiLiBaoHiem\InsuranceApp.Shared\bin\Debug\net8.0\InsuranceApp.Shared.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\InsuranceApp.Shared\bin\Debug\net8.0\InsuranceApp.Shared.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\InsuranceApp.Shared\obj\Debug\net8.0\InsuranceApp.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CODE2026\DaiLiBaoHiem\InsuranceApp.Shared\obj\Debug\net8.0\InsuranceApp.Shared.AssemblyInfoInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\InsuranceApp.Shared\obj\Debug\net8.0\InsuranceApp.Shared.AssemblyInfo.cs
+D:\CODE\CODE2026\DaiLiBaoHiem\InsuranceApp.Shared\obj\Debug\net8.0\InsuranceApp.Shared.csproj.CoreCompileInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\InsuranceApp.Shared\obj\Debug\net8.0\InsuranceApp.Shared.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\InsuranceApp.Shared\obj\Debug\net8.0\refint\InsuranceApp.Shared.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\InsuranceApp.Shared\obj\Debug\net8.0\InsuranceApp.Shared.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\InsuranceApp.Shared\obj\Debug\net8.0\ref\InsuranceApp.Shared.dll

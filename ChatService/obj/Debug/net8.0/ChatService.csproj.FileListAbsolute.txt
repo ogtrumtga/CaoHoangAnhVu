@@ -1,0 +1,11 @@
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService\bin\Debug\net8.0\ChatService.deps.json
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService\bin\Debug\net8.0\ChatService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService\bin\Debug\net8.0\ChatService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService\obj\Debug\net8.0\ChatService.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfoInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService\obj\Debug\net8.0\ChatService.AssemblyInfo.cs
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService\obj\Debug\net8.0\ChatService.csproj.CoreCompileInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService\obj\Debug\net8.0\ChatService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService\obj\Debug\net8.0\refint\ChatService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService\obj\Debug\net8.0\ChatService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService\obj\Debug\net8.0\ref\ChatService.dll

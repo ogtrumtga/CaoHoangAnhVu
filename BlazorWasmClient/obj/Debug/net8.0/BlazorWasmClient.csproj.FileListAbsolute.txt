@@ -1,0 +1,7 @@
+D:\CODE\CODE2026\DaiLiBaoHiem\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.csproj.AssemblyReference.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\BlazorWasmClient\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\CODE\CODE2026\DaiLiBaoHiem\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CODE2026\DaiLiBaoHiem\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.AssemblyInfoInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.AssemblyInfo.cs
+D:\CODE\CODE2026\DaiLiBaoHiem\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.csproj.CoreCompileInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\BlazorWasmClient\obj\Debug\net8.0\BlazorWasmClient.MvcApplicationPartsAssemblyInfo.cache

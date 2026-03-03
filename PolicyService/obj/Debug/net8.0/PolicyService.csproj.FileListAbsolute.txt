@@ -1,0 +1,11 @@
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\bin\Debug\net8.0\PolicyService.deps.json
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\bin\Debug\net8.0\PolicyService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\bin\Debug\net8.0\PolicyService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\PolicyService.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\PolicyService.AssemblyInfoInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\PolicyService.AssemblyInfo.cs
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\PolicyService.csproj.CoreCompileInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\PolicyService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\refint\PolicyService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\PolicyService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\ref\PolicyService.dll

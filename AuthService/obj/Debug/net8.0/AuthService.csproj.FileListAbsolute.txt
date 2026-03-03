@@ -1,0 +1,11 @@
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService\bin\Debug\net8.0\AuthService.deps.json
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService\bin\Debug\net8.0\AuthService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService\bin\Debug\net8.0\AuthService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService\obj\Debug\net8.0\AuthService.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService\obj\Debug\net8.0\AuthService.AssemblyInfoInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService\obj\Debug\net8.0\AuthService.AssemblyInfo.cs
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService\obj\Debug\net8.0\AuthService.csproj.CoreCompileInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService\obj\Debug\net8.0\AuthService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService\obj\Debug\net8.0\refint\AuthService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService\obj\Debug\net8.0\AuthService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService\obj\Debug\net8.0\ref\AuthService.dll

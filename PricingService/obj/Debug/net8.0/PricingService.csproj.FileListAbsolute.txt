@@ -1,0 +1,11 @@
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\bin\Debug\net8.0\PricingService.deps.json
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\bin\Debug\net8.0\PricingService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\bin\Debug\net8.0\PricingService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\PricingService.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\PricingService.AssemblyInfoInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\PricingService.AssemblyInfo.cs
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\PricingService.csproj.CoreCompileInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\PricingService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\refint\PricingService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\PricingService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\ref\PricingService.dll

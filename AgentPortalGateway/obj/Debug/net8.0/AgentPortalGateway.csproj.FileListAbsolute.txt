@@ -1,0 +1,11 @@
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\bin\Debug\net8.0\AgentPortalGateway.deps.json
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\bin\Debug\net8.0\AgentPortalGateway.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\bin\Debug\net8.0\AgentPortalGateway.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\AgentPortalGateway.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\AgentPortalGateway.AssemblyInfoInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\AgentPortalGateway.AssemblyInfo.cs
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\AgentPortalGateway.csproj.CoreCompileInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\AgentPortalGateway.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\refint\AgentPortalGateway.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\AgentPortalGateway.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\ref\AgentPortalGateway.dll

@@ -1,0 +1,11 @@
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicySearchService\bin\Debug\net8.0\PolicySearchService.deps.json
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicySearchService\bin\Debug\net8.0\PolicySearchService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicySearchService\bin\Debug\net8.0\PolicySearchService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicySearchService\obj\Debug\net8.0\PolicySearchService.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicySearchService\obj\Debug\net8.0\PolicySearchService.AssemblyInfoInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicySearchService\obj\Debug\net8.0\PolicySearchService.AssemblyInfo.cs
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicySearchService\obj\Debug\net8.0\PolicySearchService.csproj.CoreCompileInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicySearchService\obj\Debug\net8.0\PolicySearchService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicySearchService\obj\Debug\net8.0\refint\PolicySearchService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicySearchService\obj\Debug\net8.0\PolicySearchService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicySearchService\obj\Debug\net8.0\ref\PolicySearchService.dll

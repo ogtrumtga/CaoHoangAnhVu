@@ -1,0 +1,11 @@
+D:\CODE\CODE2026\DaiLiBaoHiem\ProductService\bin\Debug\net8.0\ProductService.deps.json
+D:\CODE\CODE2026\DaiLiBaoHiem\ProductService\bin\Debug\net8.0\ProductService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\ProductService\bin\Debug\net8.0\ProductService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\ProductService\obj\Debug\net8.0\ProductService.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CODE2026\DaiLiBaoHiem\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfoInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\ProductService\obj\Debug\net8.0\ProductService.AssemblyInfo.cs
+D:\CODE\CODE2026\DaiLiBaoHiem\ProductService\obj\Debug\net8.0\ProductService.csproj.CoreCompileInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\ProductService\obj\Debug\net8.0\ProductService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\ProductService\obj\Debug\net8.0\refint\ProductService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\ProductService\obj\Debug\net8.0\ProductService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\ProductService\obj\Debug\net8.0\ref\ProductService.dll

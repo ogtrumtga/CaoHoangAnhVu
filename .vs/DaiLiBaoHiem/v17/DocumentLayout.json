@@ -1,0 +1,248 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\components\\products\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\components\\products\\productdetails.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\blazorwasmclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\blazorwasmclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\components\\dashboard\\salesagentscard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\components\\dashboard\\salesagentscard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\components\\dashboard\\dashboardclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\components\\dashboard\\dashboardclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\components\\products\\offerparamssection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\components\\products\\offerparamssection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\components\\products\\offerparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\components\\products\\offerparametersmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\components\\dashboard\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\components\\dashboard\\dashboard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\components\\policysearch\\policysearch.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\components\\policysearch\\policysearch.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\components\\products\\productcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\components\\products\\productcard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\components\\products\\contractdetailssection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\components\\products\\contractdetailssection.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\components\\dashboard\\trandscard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\components\\dashboard\\trandscard.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\components\\products\\productsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\components\\products\\productsclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|d:\\code\\code2026\\dailibaohiem\\blazorwasmclient\\components\\products\\policyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8F4F382E-0D66-134B-BD47-51268FCFBA19}|BlazorWasmClient\\BlazorWasmClient.csproj|solutionrelative:blazorwasmclient\\components\\products\\policyclient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6D20D4E-DF0D-4366-A58D-D30B7D3E7E97}|InsuranceApp.Shared\\InsuranceApp.Shared.csproj|d:\\code\\code2026\\dailibaohiem\\insuranceapp.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6D20D4E-DF0D-4366-A58D-D30B7D3E7E97}|InsuranceApp.Shared\\InsuranceApp.Shared.csproj|solutionrelative:insuranceapp.shared\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 149,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductDetails.razor",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\ProductDetails.razor",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\Components\\Products\\ProductDetails.razor",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\ProductDetails.razor",
+              "RelativeToolTip": "BlazorWasmClient\\Components\\Products\\ProductDetails.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T09:28:02.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProductsClient.cs",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\ProductsClient.cs",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\Components\\Products\\ProductsClient.cs",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\ProductsClient.cs",
+              "RelativeToolTip": "BlazorWasmClient\\Components\\Products\\ProductsClient.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:25:50.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PolicyClient.cs",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\PolicyClient.cs",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\Components\\Products\\PolicyClient.cs",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\PolicyClient.cs",
+              "RelativeToolTip": "BlazorWasmClient\\Components\\Products\\PolicyClient.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:25:49.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ContractDetailsSection.razor",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\ContractDetailsSection.razor",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\Components\\Products\\ContractDetailsSection.razor",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\ContractDetailsSection.razor",
+              "RelativeToolTip": "BlazorWasmClient\\Components\\Products\\ContractDetailsSection.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T09:25:39.854Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OfferParametersModel.cs",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\OfferParametersModel.cs",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\Components\\Products\\OfferParametersModel.cs",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\OfferParametersModel.cs",
+              "RelativeToolTip": "BlazorWasmClient\\Components\\Products\\OfferParametersModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA8wBYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:25:04.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PolicySearch.razor",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\PolicySearch\\PolicySearch.razor",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\Components\\PolicySearch\\PolicySearch.razor",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\PolicySearch\\PolicySearch.razor",
+              "RelativeToolTip": "BlazorWasmClient\\Components\\PolicySearch\\PolicySearch.razor",
+              "ViewState": "AgIAADUAAAAAAAAAAAAiwEYAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T09:25:02.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TrandsCard.razor",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Dashboard\\TrandsCard.razor",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\Components\\Dashboard\\TrandsCard.razor",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Dashboard\\TrandsCard.razor",
+              "RelativeToolTip": "BlazorWasmClient\\Components\\Dashboard\\TrandsCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T09:20:20.517Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OfferParamsSection.razor",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\OfferParamsSection.razor",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\Components\\Products\\OfferParamsSection.razor",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\OfferParamsSection.razor",
+              "RelativeToolTip": "BlazorWasmClient\\Components\\Products\\OfferParamsSection.razor",
+              "ViewState": "AgIAACsAAAAAAAAAAAAkwDwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T09:20:19.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductCard.razor",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\ProductCard.razor",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\Components\\Products\\ProductCard.razor",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Products\\ProductCard.razor",
+              "RelativeToolTip": "BlazorWasmClient\\Components\\Products\\ProductCard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T09:20:19.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SalesAgentsCard.razor",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Dashboard\\SalesAgentsCard.razor",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\Components\\Dashboard\\SalesAgentsCard.razor",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Dashboard\\SalesAgentsCard.razor",
+              "RelativeToolTip": "BlazorWasmClient\\Components\\Dashboard\\SalesAgentsCard.razor",
+              "ViewState": "AgIAADAAAAAAAAAAAAAwwD8AAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T09:19:05.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DashboardClient.cs",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Dashboard\\DashboardClient.cs",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\Components\\Dashboard\\DashboardClient.cs",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Dashboard\\DashboardClient.cs",
+              "RelativeToolTip": "BlazorWasmClient\\Components\\Dashboard\\DashboardClient.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAcwDIAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:19:03.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Dashboard.razor",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Dashboard\\Dashboard.razor",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\Components\\Dashboard\\Dashboard.razor",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\Components\\Dashboard\\Dashboard.razor",
+              "RelativeToolTip": "BlazorWasmClient\\Components\\Dashboard\\Dashboard.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-03T09:18:50.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\InsuranceApp.Shared\\Class1.cs",
+              "RelativeDocumentMoniker": "InsuranceApp.Shared\\Class1.cs",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\InsuranceApp.Shared\\Class1.cs",
+              "RelativeToolTip": "InsuranceApp.Shared\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T09:15:10.415Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlazorWasmClient.csproj",
+              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\BlazorWasmClient.csproj",
+              "RelativeDocumentMoniker": "BlazorWasmClient\\BlazorWasmClient.csproj",
+              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\BlazorWasmClient\\BlazorWasmClient.csproj",
+              "RelativeToolTip": "BlazorWasmClient\\BlazorWasmClient.csproj",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-03T09:02:35.244Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

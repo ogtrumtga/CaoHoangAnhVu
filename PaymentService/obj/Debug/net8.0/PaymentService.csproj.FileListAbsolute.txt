@@ -1,0 +1,11 @@
+D:\CODE\CODE2026\DaiLiBaoHiem\PaymentService\bin\Debug\net8.0\PaymentService.deps.json
+D:\CODE\CODE2026\DaiLiBaoHiem\PaymentService\bin\Debug\net8.0\PaymentService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PaymentService\bin\Debug\net8.0\PaymentService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\PaymentService\obj\Debug\net8.0\PaymentService.GeneratedMSBuildEditorConfig.editorconfig
+D:\CODE\CODE2026\DaiLiBaoHiem\PaymentService\obj\Debug\net8.0\PaymentService.AssemblyInfoInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\PaymentService\obj\Debug\net8.0\PaymentService.AssemblyInfo.cs
+D:\CODE\CODE2026\DaiLiBaoHiem\PaymentService\obj\Debug\net8.0\PaymentService.csproj.CoreCompileInputs.cache
+D:\CODE\CODE2026\DaiLiBaoHiem\PaymentService\obj\Debug\net8.0\PaymentService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PaymentService\obj\Debug\net8.0\refint\PaymentService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PaymentService\obj\Debug\net8.0\PaymentService.pdb
+D:\CODE\CODE2026\DaiLiBaoHiem\PaymentService\obj\Debug\net8.0\ref\PaymentService.dll
