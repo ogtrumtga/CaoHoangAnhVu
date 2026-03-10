@@ -97,3 +97,5 @@ D:\CODE\CODE2026\DaiLiBaoHiem\ChatService.Test\obj\Debug\net8.0\refint\ChatServi
 D:\CODE\CODE2026\DaiLiBaoHiem\ChatService.Test\obj\Debug\net8.0\ChatService.Test.pdb
 D:\CODE\CODE2026\DaiLiBaoHiem\ChatService.Test\obj\Debug\net8.0\ChatService.Test.genruntimeconfig.cache
 D:\CODE\CODE2026\DaiLiBaoHiem\ChatService.Test\obj\Debug\net8.0\ref\ChatService.Test.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService.Test\obj\Debug\net8.0\ChatService.Test.sourcelink.json
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService.Test\bin\Debug\net8.0\FluentValidation.dll

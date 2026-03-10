@@ -1,0 +1,4 @@
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.build.json
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.build.json
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.build.json
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.build.json

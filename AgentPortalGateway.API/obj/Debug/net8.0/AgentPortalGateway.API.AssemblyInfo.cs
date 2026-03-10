@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgentPortalGateway.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+285e55ca4eebb7d79bd8ff55a9c3fe3770870158")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgentPortalGateway.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgentPortalGateway.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

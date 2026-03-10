@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "VMh2/L0x19Q=",
+  "dgSpecHash": "K3jKQHU9zbs=",
   "success": true,
   "projectFilePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\ChatService.API\\ChatService.API.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\chavu\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\mediatr\\14.0.0\\mediatr.14.0.0.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\11.1.0\\mediatr.extensions.microsoft.dependencyinjection.11.1.0.nupkg.sha512",

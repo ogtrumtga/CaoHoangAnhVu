@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "PricingService.Controllers.PricingController",
+    "Method": "Post",
+    "RelativePath": "api/Pricing",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cmd",
+        "Type": "PricingService.Api.Commands.CalculatePriceCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

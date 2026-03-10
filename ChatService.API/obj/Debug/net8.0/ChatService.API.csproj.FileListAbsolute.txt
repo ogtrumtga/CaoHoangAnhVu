@@ -43,3 +43,5 @@ D:\CODE\CODE2026\DaiLiBaoHiem\ChatService.API\obj\Debug\net8.0\refint\ChatServic
 D:\CODE\CODE2026\DaiLiBaoHiem\ChatService.API\obj\Debug\net8.0\ChatService.API.pdb
 D:\CODE\CODE2026\DaiLiBaoHiem\ChatService.API\obj\Debug\net8.0\ChatService.API.genruntimeconfig.cache
 D:\CODE\CODE2026\DaiLiBaoHiem\ChatService.API\obj\Debug\net8.0\ref\ChatService.API.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService.API\obj\Debug\net8.0\ChatService.API.sourcelink.json
+D:\CODE\CODE2026\DaiLiBaoHiem\ChatService.API\bin\Debug\net8.0\FluentValidation.dll

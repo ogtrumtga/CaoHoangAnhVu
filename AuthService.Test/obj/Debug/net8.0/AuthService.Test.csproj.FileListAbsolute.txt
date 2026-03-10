@@ -97,3 +97,4 @@ D:\CODE\CODE2026\DaiLiBaoHiem\AuthService.Test\obj\Debug\net8.0\refint\AuthServi
 D:\CODE\CODE2026\DaiLiBaoHiem\AuthService.Test\obj\Debug\net8.0\AuthService.Test.pdb
 D:\CODE\CODE2026\DaiLiBaoHiem\AuthService.Test\obj\Debug\net8.0\AuthService.Test.genruntimeconfig.cache
 D:\CODE\CODE2026\DaiLiBaoHiem\AuthService.Test\obj\Debug\net8.0\ref\AuthService.Test.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService.Test\obj\Debug\net8.0\AuthService.Test.sourcelink.json

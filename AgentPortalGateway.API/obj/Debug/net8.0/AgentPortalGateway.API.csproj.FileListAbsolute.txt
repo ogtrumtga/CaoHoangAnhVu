@@ -43,3 +43,4 @@ D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway.API\obj\Debug\net8.0\refint\Age
 D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway.API\obj\Debug\net8.0\AgentPortalGateway.API.pdb
 D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway.API\obj\Debug\net8.0\AgentPortalGateway.API.genruntimeconfig.cache
 D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway.API\obj\Debug\net8.0\ref\AgentPortalGateway.API.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway.API\obj\Debug\net8.0\AgentPortalGateway.API.sourcelink.json

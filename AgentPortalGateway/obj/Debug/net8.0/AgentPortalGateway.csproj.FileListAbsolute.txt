@@ -9,3 +9,4 @@ D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\AgentPortalGat
 D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\refint\AgentPortalGateway.dll
 D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\AgentPortalGateway.pdb
 D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\ref\AgentPortalGateway.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\AgentPortalGateway.sourcelink.json

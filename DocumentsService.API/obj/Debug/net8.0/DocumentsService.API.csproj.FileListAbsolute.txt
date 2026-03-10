@@ -43,3 +43,5 @@ D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService.API\obj\Debug\net8.0\refint\Docum
 D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService.API\obj\Debug\net8.0\DocumentsService.API.pdb
 D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService.API\obj\Debug\net8.0\DocumentsService.API.genruntimeconfig.cache
 D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService.API\obj\Debug\net8.0\ref\DocumentsService.API.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService.API\obj\Debug\net8.0\DocumentsService.API.sourcelink.json
+D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService.API\bin\Debug\net8.0\FluentValidation.dll

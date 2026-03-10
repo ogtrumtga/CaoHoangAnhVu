@@ -43,3 +43,4 @@ D:\CODE\CODE2026\DaiLiBaoHiem\AuthService.API\obj\Debug\net8.0\refint\AuthServic
 D:\CODE\CODE2026\DaiLiBaoHiem\AuthService.API\obj\Debug\net8.0\AuthService.API.pdb
 D:\CODE\CODE2026\DaiLiBaoHiem\AuthService.API\obj\Debug\net8.0\AuthService.API.genruntimeconfig.cache
 D:\CODE\CODE2026\DaiLiBaoHiem\AuthService.API\obj\Debug\net8.0\ref\AuthService.API.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\AuthService.API\obj\Debug\net8.0\AuthService.API.sourcelink.json

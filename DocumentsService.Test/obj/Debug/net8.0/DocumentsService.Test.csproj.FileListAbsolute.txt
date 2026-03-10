@@ -97,3 +97,5 @@ D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService.Test\obj\Debug\net8.0\refint\Docu
 D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.pdb
 D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.genruntimeconfig.cache
 D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService.Test\obj\Debug\net8.0\ref\DocumentsService.Test.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService.Test\obj\Debug\net8.0\DocumentsService.Test.sourcelink.json
+D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService.Test\bin\Debug\net8.0\FluentValidation.dll
