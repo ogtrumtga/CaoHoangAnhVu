@@ -191,10 +191,10 @@ D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.bu
 D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.development.json
 D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\PricingS.6EB92AD7.Up2Date
 D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\PricingService.dll
 D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\refint\PricingService.dll
 D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\PricingService.pdb
 D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\PricingService.genruntimeconfig.cache
 D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\ref\PricingService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

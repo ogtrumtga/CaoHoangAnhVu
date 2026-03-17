@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VYCN/5QXYO0=",
+  "success": true,
+  "projectFilePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\chavu\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
+    "C:\\Users\\chavu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\chavu\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

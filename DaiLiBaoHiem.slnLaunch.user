@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "AgentPortalApiGateway\\AgentPortalApiGateway.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "PricingService\\PricingService.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]

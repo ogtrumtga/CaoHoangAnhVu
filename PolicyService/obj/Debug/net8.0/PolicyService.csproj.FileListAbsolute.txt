@@ -84,10 +84,10 @@ D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\staticwebassets.bui
 D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\staticwebassets.build.json.cache
 D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\staticwebassets.development.json
 D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\staticwebassets.build.endpoints.json
-D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\PolicySe.0516FA67.Up2Date
 D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\PolicyService.dll
 D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\refint\PolicyService.dll
 D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\PolicyService.pdb
 D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\PolicyService.genruntimeconfig.cache
 D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\ref\PolicyService.dll
+D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt

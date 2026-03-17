@@ -1,54 +1,12 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{12E328EC-7DE6-DEF2-A111-1BC5A703BC1F}|PricingService\\PricingService.csproj|d:\\code\\code2026\\dailibaohiem\\pricingservice\\pricingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{12E328EC-7DE6-DEF2-A111-1BC5A703BC1F}|PricingService\\PricingService.csproj|solutionrelative:pricingservice\\pricingservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{12E328EC-7DE6-DEF2-A111-1BC5A703BC1F}|PricingService\\PricingService.csproj|d:\\code\\code2026\\dailibaohiem\\pricingservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{12E328EC-7DE6-DEF2-A111-1BC5A703BC1F}|PricingService\\PricingService.csproj|solutionrelative:pricingservice\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": [
-        {
-          "DockedHeight": 149,
-          "SelectedChildIndex": 0,
-          "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PricingService",
-              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService\\PricingService.csproj",
-              "RelativeDocumentMoniker": "PricingService\\PricingService.csproj",
-              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService\\PricingService.csproj",
-              "RelativeToolTip": "PricingService\\PricingService.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2026-03-10T08:52:10.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Startup.cs",
-              "DocumentMoniker": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService\\Startup.cs",
-              "RelativeDocumentMoniker": "PricingService\\Startup.cs",
-              "ToolTip": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService\\Startup.cs",
-              "RelativeToolTip": "PricingService\\Startup.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T07:53:49.305Z",
-              "EditorCaption": ""
-            }
-          ]
-        }
-      ]
+      "DocumentGroups": []
     }
   ]
 }
