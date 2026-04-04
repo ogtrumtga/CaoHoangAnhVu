@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.IntegrationTest\\PricingService.IntegrationTest.csproj": {}
+    "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.IntegrationTest\\PricingService.IntegrationTest.csproj": {}
   },
   "projects": {
-    "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\PricingService.Api.csproj": {
+    "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\PricingService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\PricingService.Api.csproj",
+        "projectUniqueName": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\PricingService.Api.csproj",
         "projectName": "PricingService.Api",
-        "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\PricingService.Api.csproj",
+        "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\PricingService.Api.csproj",
         "packagesPath": "C:\\Users\\chavu\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\obj\\",
+        "outputPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -83,14 +83,14 @@
         }
       }
     },
-    "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.IntegrationTest\\PricingService.IntegrationTest.csproj": {
+    "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.IntegrationTest\\PricingService.IntegrationTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.IntegrationTest\\PricingService.IntegrationTest.csproj",
+        "projectUniqueName": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.IntegrationTest\\PricingService.IntegrationTest.csproj",
         "projectName": "PricingService.IntegrationTest",
-        "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.IntegrationTest\\PricingService.IntegrationTest.csproj",
+        "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.IntegrationTest\\PricingService.IntegrationTest.csproj",
         "packagesPath": "C:\\Users\\chavu\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.IntegrationTest\\obj\\",
+        "outputPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.IntegrationTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -111,8 +111,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService\\PricingService.csproj": {
-                "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService\\PricingService.csproj"
+              "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService\\PricingService.csproj": {
+                "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService\\PricingService.csproj"
               }
             }
           }
@@ -191,14 +191,14 @@
         }
       }
     },
-    "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService\\PricingService.csproj": {
+    "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService\\PricingService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService\\PricingService.csproj",
+        "projectUniqueName": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService\\PricingService.csproj",
         "projectName": "PricingService",
-        "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService\\PricingService.csproj",
+        "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService\\PricingService.csproj",
         "packagesPath": "C:\\Users\\chavu\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService\\obj\\",
+        "outputPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -219,8 +219,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\PricingService.Api.csproj": {
-                "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\PricingService.Api.csproj"
+              "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\PricingService.Api.csproj": {
+                "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\PricingService.Api.csproj"
               }
             }
           }

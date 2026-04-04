@@ -358,11 +358,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\ChatService.Api\\ChatService.Api.csproj",
+      "projectUniqueName": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\ChatService.Api\\ChatService.Api.csproj",
       "projectName": "ChatService.Api",
-      "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\ChatService.Api\\ChatService.Api.csproj",
+      "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\ChatService.Api\\ChatService.Api.csproj",
       "packagesPath": "C:\\Users\\chavu\\.nuget\\packages\\",
-      "outputPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\ChatService.Api\\obj\\",
+      "outputPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\ChatService.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

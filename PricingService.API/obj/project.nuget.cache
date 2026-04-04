@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "6QEXCnsLJP8=",
+  "dgSpecHash": "IQFS9XlI8ms=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\PricingService.Api.csproj",
+  "projectFilePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.Api\\PricingService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chavu\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",

@@ -3267,11 +3267,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\AgentPortalApiGateway\\AgentPortalApiGateway.csproj",
+      "projectUniqueName": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\AgentPortalApiGateway\\AgentPortalApiGateway.csproj",
       "projectName": "AgentPortalApiGateway",
-      "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\AgentPortalApiGateway\\AgentPortalApiGateway.csproj",
+      "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\AgentPortalApiGateway\\AgentPortalApiGateway.csproj",
       "packagesPath": "C:\\Users\\chavu\\.nuget\\packages\\",
-      "outputPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\AgentPortalApiGateway\\obj\\",
+      "outputPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\AgentPortalApiGateway\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

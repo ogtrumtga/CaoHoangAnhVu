@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Meal1U2/Z5U=",
+  "dgSpecHash": "GaEe69uUvGk=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\AuthService\\AuthService.csproj",
+  "projectFilePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\AuthService\\AuthService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chavu\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.6\\microsoft.aspnetcore.authentication.jwtbearer.8.0.6.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.6\\microsoft.aspnetcore.jsonpatch.8.0.6.nupkg.sha512",

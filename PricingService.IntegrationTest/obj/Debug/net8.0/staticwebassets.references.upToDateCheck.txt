@@ -4,3 +4,6 @@ D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.bu
 D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.build.json
 D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.build.json
 D:\CODE\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.build.json
+D:\code2222\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.build.json
+D:\code2222\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.build.json
+D:\code2222\CODE2026\DaiLiBaoHiem\PricingService\obj\Debug\net8.0\staticwebassets.build.json

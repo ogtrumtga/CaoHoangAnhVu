@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\AuthService.API\\AuthService.API.csproj": {}
+    "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\AuthService.API\\AuthService.API.csproj": {}
   },
   "projects": {
-    "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\AuthService.API\\AuthService.API.csproj": {
+    "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\AuthService.API\\AuthService.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\AuthService.API\\AuthService.API.csproj",
+        "projectUniqueName": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\AuthService.API\\AuthService.API.csproj",
         "projectName": "AuthService.API",
-        "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\AuthService.API\\AuthService.API.csproj",
+        "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\AuthService.API\\AuthService.API.csproj",
         "packagesPath": "C:\\Users\\chavu\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\AuthService.API\\obj\\",
+        "outputPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\AuthService.API\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -11,3 +11,16 @@ D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\PolicyService.A
 D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\refint\PolicyService.Api.dll
 D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.pdb
 D:\CODE\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\ref\PolicyService.Api.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\bin\Debug\net8.0\PolicyService.Api.deps.json
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\bin\Debug\net8.0\PolicyService.Api.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\bin\Debug\net8.0\PolicyService.Api.pdb
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.csproj.AssemblyReference.cache
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.AssemblyInfoInputs.cache
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.AssemblyInfo.cs
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.csproj.CoreCompileInputs.cache
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.sourcelink.json
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\refint\PolicyService.Api.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\PolicyService.Api.pdb
+D:\code2222\CODE2026\DaiLiBaoHiem\PolicyService.Api\obj\Debug\net8.0\ref\PolicyService.Api.dll

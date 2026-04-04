@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Test\\DashboardService.Test.csproj": {}
+    "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Test\\DashboardService.Test.csproj": {}
   },
   "projects": {
-    "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj": {
+    "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj",
+        "projectUniqueName": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj",
         "projectName": "DashboardService.Api",
-        "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj",
+        "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj",
         "packagesPath": "C:\\Users\\chavu\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\obj\\",
+        "outputPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -75,14 +75,14 @@
         }
       }
     },
-    "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Test\\DashboardService.Test.csproj": {
+    "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Test\\DashboardService.Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Test\\DashboardService.Test.csproj",
+        "projectUniqueName": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Test\\DashboardService.Test.csproj",
         "projectName": "DashboardService.Test",
-        "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Test\\DashboardService.Test.csproj",
+        "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Test\\DashboardService.Test.csproj",
         "packagesPath": "C:\\Users\\chavu\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Test\\obj\\",
+        "outputPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -103,11 +103,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj": {
-                "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj"
+              "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj": {
+                "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj"
               },
-              "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj": {
-                "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj"
+              "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj": {
+                "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj"
               }
             }
           }
@@ -181,14 +181,14 @@
         }
       }
     },
-    "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj": {
+    "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj",
+        "projectUniqueName": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj",
         "projectName": "DashboardService",
-        "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj",
+        "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj",
         "packagesPath": "C:\\Users\\chavu\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService\\obj\\",
+        "outputPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -209,11 +209,11 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj": {
-                "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj"
+              "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj": {
+                "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Api\\DashboardService.Api.csproj"
               },
-              "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PolicyService.Api\\PolicyService.Api.csproj": {
-                "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PolicyService.Api\\PolicyService.Api.csproj"
+              "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PolicyService.Api\\PolicyService.Api.csproj": {
+                "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PolicyService.Api\\PolicyService.Api.csproj"
               }
             }
           }
@@ -294,14 +294,14 @@
         }
       }
     },
-    "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PolicyService.Api\\PolicyService.Api.csproj": {
+    "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PolicyService.Api\\PolicyService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PolicyService.Api\\PolicyService.Api.csproj",
+        "projectUniqueName": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PolicyService.Api\\PolicyService.Api.csproj",
         "projectName": "PolicyService.Api",
-        "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PolicyService.Api\\PolicyService.Api.csproj",
+        "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PolicyService.Api\\PolicyService.Api.csproj",
         "packagesPath": "C:\\Users\\chavu\\.nuget\\packages\\",
-        "outputPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PolicyService.Api\\obj\\",
+        "outputPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PolicyService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "KZimspIDOAA=",
+  "dgSpecHash": "gYrE3w48cKw=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\ChatService.Api\\ChatService.Api.csproj",
+  "projectFilePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\ChatService.Api\\ChatService.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chavu\\.nuget\\packages\\mediatr\\12.3.0\\mediatr.12.3.0.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",

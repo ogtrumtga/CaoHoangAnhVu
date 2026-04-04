@@ -11,3 +11,16 @@ D:\CODE\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\DashboardSer
 D:\CODE\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\refint\DashboardService.Api.dll
 D:\CODE\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.pdb
 D:\CODE\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\ref\DashboardService.Api.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\bin\Debug\net8.0\DashboardService.Api.deps.json
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\bin\Debug\net8.0\DashboardService.Api.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\bin\Debug\net8.0\DashboardService.Api.pdb
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.csproj.AssemblyReference.cache
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.AssemblyInfoInputs.cache
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.AssemblyInfo.cs
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.csproj.CoreCompileInputs.cache
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.sourcelink.json
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\refint\DashboardService.Api.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\DashboardService.Api.pdb
+D:\code2222\CODE2026\DaiLiBaoHiem\DashboardService.Api\obj\Debug\net8.0\ref\DashboardService.Api.dll

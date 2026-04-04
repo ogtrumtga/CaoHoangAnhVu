@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "03QsEp9JwgI=",
+  "dgSpecHash": "rUjKa+kQx8c=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService.Test\\DashboardService.Test.csproj",
+  "projectFilePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService.Test\\DashboardService.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chavu\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\docker.dotnet\\3.125.15\\docker.dotnet.3.125.15.nupkg.sha512",

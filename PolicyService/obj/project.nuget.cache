@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "luVf+tpHF/o=",
+  "dgSpecHash": "6qwALvkgnlE=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PolicyService\\PolicyService.csproj",
+  "projectFilePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PolicyService\\PolicyService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chavu\\.nuget\\packages\\antlr3.runtime\\3.5.1\\antlr3.runtime.3.5.1.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\easynetq\\7.8.0\\easynetq.7.8.0.nupkg.sha512",
@@ -174,9 +174,9 @@
       "code": "NU1903",
       "level": "Warning",
       "message": "Package 'NHibernate' 5.5.1 has a known high severity vulnerability, https://github.com/advisories/GHSA-fg4q-ccq8-3r5q",
-      "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PolicyService\\PolicyService.csproj",
+      "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PolicyService\\PolicyService.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PolicyService\\PolicyService.csproj",
+      "filePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PolicyService\\PolicyService.csproj",
       "libraryId": "NHibernate",
       "targetGraphs": [
         "net8.0"
@@ -186,9 +186,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'Steeltoe.Discovery.Eureka' 3.2.7 has a known low severity vulnerability, https://github.com/advisories/GHSA-vmcp-66r5-3pcp",
-      "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PolicyService\\PolicyService.csproj",
+      "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PolicyService\\PolicyService.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PolicyService\\PolicyService.csproj",
+      "filePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PolicyService\\PolicyService.csproj",
       "libraryId": "Steeltoe.Discovery.Eureka",
       "targetGraphs": [
         "net8.0"

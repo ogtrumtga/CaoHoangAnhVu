@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "y+E314hqF4Y=",
+  "dgSpecHash": "A2o3eQA0qAw=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\ChatService.Test\\ChatService.Test.csproj",
+  "projectFilePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\ChatService.Test\\ChatService.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chavu\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512",

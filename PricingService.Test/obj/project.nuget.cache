@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RFF+yTNPEgM=",
+  "dgSpecHash": "IBmNHT2KUpQ=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.Test\\PricingService.Test.csproj",
+  "projectFilePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.Test\\PricingService.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chavu\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\dynamicexpresso.core\\2.16.1\\dynamicexpresso.core.2.16.1.nupkg.sha512",

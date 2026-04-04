@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "38mYskWxcH4=",
+  "dgSpecHash": "Y70kwmMb9ys=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj",
+  "projectFilePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chavu\\.nuget\\packages\\easynetq\\7.8.0\\easynetq.7.8.0.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\elastic.clients.elasticsearch\\8.9.3\\elastic.clients.elasticsearch.8.9.3.nupkg.sha512",
@@ -73,9 +73,9 @@
       "code": "NU1901",
       "level": "Warning",
       "message": "Package 'Steeltoe.Discovery.Eureka' 3.2.7 has a known low severity vulnerability, https://github.com/advisories/GHSA-vmcp-66r5-3pcp",
-      "projectPath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj",
+      "projectPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj",
       "warningLevel": 1,
-      "filePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj",
+      "filePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\DashboardService\\DashboardService.csproj",
       "libraryId": "Steeltoe.Discovery.Eureka",
       "targetGraphs": [
         "net8.0"

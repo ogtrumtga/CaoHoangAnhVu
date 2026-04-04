@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "X2IQMG3JQAI=",
+  "dgSpecHash": "L1wmGW/qZG8=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\PricingService.IntegrationTest\\PricingService.IntegrationTest.csproj",
+  "projectFilePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PricingService.IntegrationTest\\PricingService.IntegrationTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chavu\\.nuget\\packages\\alba\\7.4.1\\alba.7.4.1.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\docker.dotnet\\3.125.15\\docker.dotnet.3.125.15.nupkg.sha512",

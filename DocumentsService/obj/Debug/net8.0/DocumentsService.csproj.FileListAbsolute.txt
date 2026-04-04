@@ -11,3 +11,16 @@ D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\DocumentsService
 D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\ref\DocumentsService.dll
 D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\DocumentsService.sourcelink.json
 D:\CODE\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\DocumentsService.csproj.AssemblyReference.cache
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\bin\Debug\net8.0\DocumentsService.deps.json
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\bin\Debug\net8.0\DocumentsService.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\bin\Debug\net8.0\DocumentsService.pdb
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\DocumentsService.csproj.AssemblyReference.cache
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\DocumentsService.GeneratedMSBuildEditorConfig.editorconfig
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\DocumentsService.AssemblyInfoInputs.cache
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\DocumentsService.AssemblyInfo.cs
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\DocumentsService.csproj.CoreCompileInputs.cache
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\DocumentsService.sourcelink.json
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\DocumentsService.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\refint\DocumentsService.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\DocumentsService.pdb
+D:\code2222\CODE2026\DaiLiBaoHiem\DocumentsService\obj\Debug\net8.0\ref\DocumentsService.dll

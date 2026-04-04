@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q4BkqgVstkU=",
+  "dgSpecHash": "23Cx6oGS4Xw=",
   "success": true,
-  "projectFilePath": "D:\\CODE\\CODE2026\\DaiLiBaoHiem\\InsuranceApp.Shared\\InsuranceApp.Shared.csproj",
+  "projectFilePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\InsuranceApp.Shared\\InsuranceApp.Shared.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\chavu\\.nuget\\packages\\fluentvalidation\\11.9.2\\fluentvalidation.11.9.2.nupkg.sha512"
   ],
