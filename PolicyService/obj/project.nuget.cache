@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "6qwALvkgnlE=",
+  "dgSpecHash": "FAPybxS5Afs=",
   "success": true,
   "projectFilePath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\PolicyService\\PolicyService.csproj",
   "expectedPackageFiles": [
@@ -56,6 +56,10 @@
     "C:\\Users\\chavu\\.nuget\\packages\\polly\\8.4.0\\polly.8.4.0.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\polly.core\\8.4.0\\polly.core.8.4.0.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\rabbitmq.client\\6.8.1\\rabbitmq.client.6.8.1.nupkg.sha512",
+    "C:\\Users\\chavu\\.nuget\\packages\\rawrabbit\\2.0.0-rc5\\rawrabbit.2.0.0-rc5.nupkg.sha512",
+    "C:\\Users\\chavu\\.nuget\\packages\\rawrabbit.dependencyinjection.servicecollection\\2.0.0-rc5\\rawrabbit.dependencyinjection.servicecollection.2.0.0-rc5.nupkg.sha512",
+    "C:\\Users\\chavu\\.nuget\\packages\\rawrabbit.operations.subscribe\\2.0.0-rc5\\rawrabbit.operations.subscribe.2.0.0-rc5.nupkg.sha512",
+    "C:\\Users\\chavu\\.nuget\\packages\\rawrabbit.operations.tools\\2.0.0-rc5\\rawrabbit.operations.tools.2.0.0-rc5.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\remotion.linq\\2.2.0\\remotion.linq.2.2.0.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\remotion.linq.eagerfetching\\2.2.0\\remotion.linq.eagerfetching.2.2.0.nupkg.sha512",
     "C:\\Users\\chavu\\.nuget\\packages\\restease\\1.6.4\\restease.1.6.4.nupkg.sha512",

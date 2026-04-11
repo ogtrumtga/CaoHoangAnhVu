@@ -1,8 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
-using System.Threading.Tasks;
-using ChatService.Hubs;
+﻿using ChatService.Hubs;
 using ChatService.Messaging.RabbitMq;
 using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.AspNetCore.Builder;
@@ -13,6 +9,13 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.IdentityModel.Tokens;
 using PolicyService.Api.Events;
+using RawRabbit.Configuration;
+using RawRabbit.DependencyInjection.ServiceCollection;
+using RawRabbit.Instantiation;
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Threading.Tasks;
 
 namespace ChatService;
 
@@ -87,6 +90,7 @@ public class Startup
         services.AddRabbitListeners();
         
         services.AddSwaggerGen();
+
     }
 
     // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

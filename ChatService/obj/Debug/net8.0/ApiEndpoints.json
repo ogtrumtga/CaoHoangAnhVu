@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "ChatService.Controllers.NotificationController",
+    "Method": "SendNotification",
+    "RelativePath": "api/Notification",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "cmd",
+        "Type": "ChatService.Api.Commands.SendNotificationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ChatService.Controllers.TestController",
+    "Method": "Publish",
+    "RelativePath": "api/Test/publish",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

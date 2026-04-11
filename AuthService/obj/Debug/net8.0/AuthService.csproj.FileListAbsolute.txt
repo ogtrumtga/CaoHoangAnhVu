@@ -98,3 +98,8 @@ D:\code2222\CODE2026\DaiLiBaoHiem\AuthService\obj\Debug\net8.0\refint\AuthServic
 D:\code2222\CODE2026\DaiLiBaoHiem\AuthService\obj\Debug\net8.0\AuthService.pdb
 D:\code2222\CODE2026\DaiLiBaoHiem\AuthService\obj\Debug\net8.0\AuthService.genruntimeconfig.cache
 D:\code2222\CODE2026\DaiLiBaoHiem\AuthService\obj\Debug\net8.0\ref\AuthService.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\AuthService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\AuthService\bin\Debug\net8.0\RawRabbit.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\AuthService\bin\Debug\net8.0\RawRabbit.DependencyInjection.ServiceCollection.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\AuthService\bin\Debug\net8.0\RawRabbit.Operations.Subscribe.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\AuthService\bin\Debug\net8.0\RawRabbit.Operations.Tools.dll

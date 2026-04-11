@@ -70,6 +70,18 @@
               "target": "Package",
               "version": "[23.3.3, )"
             },
+            "RawRabbit.DependencyInjection.ServiceCollection": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
+            },
+            "RawRabbit.Operations.Subscribe": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
+            },
+            "RawRabbit.Operations.Tools": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
+            },
             "Steeltoe.Discovery.Eureka": {
               "target": "Package",
               "version": "[3.2.7, )"

@@ -1,12 +1,37 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50F55732-D6FC-40B7-8C27-8C59B09E1E6B}|AuthService.Test\\AuthService.Test.csproj|d:\\code2222\\code2026\\dailibaohiem\\authservice.test\\authservice.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{50F55732-D6FC-40B7-8C27-8C59B09E1E6B}|AuthService.Test\\AuthService.Test.csproj|solutionrelative:authservice.test\\authservice.test.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 1,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedHeight": 149,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.Test",
+              "DocumentMoniker": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\AuthService.Test\\AuthService.Test.csproj",
+              "RelativeDocumentMoniker": "AuthService.Test\\AuthService.Test.csproj",
+              "ToolTip": "D:\\code2222\\CODE2026\\DaiLiBaoHiem\\AuthService.Test\\AuthService.Test.csproj",
+              "RelativeToolTip": "AuthService.Test\\AuthService.Test.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-11T03:10:27.349Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }

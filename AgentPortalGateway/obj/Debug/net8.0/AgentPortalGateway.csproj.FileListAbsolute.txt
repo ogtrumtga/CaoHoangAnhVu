@@ -22,3 +22,4 @@ D:\code2222\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\AgentPorta
 D:\code2222\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\refint\AgentPortalGateway.dll
 D:\code2222\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\AgentPortalGateway.pdb
 D:\code2222\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\ref\AgentPortalGateway.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\AgentPortalGateway\obj\Debug\net8.0\AgentPortalGateway.csproj.AssemblyReference.cache

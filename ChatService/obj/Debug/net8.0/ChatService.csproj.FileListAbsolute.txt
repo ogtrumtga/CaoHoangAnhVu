@@ -116,3 +116,7 @@ D:\code2222\CODE2026\DaiLiBaoHiem\ChatService\obj\Debug\net8.0\refint\ChatServic
 D:\code2222\CODE2026\DaiLiBaoHiem\ChatService\obj\Debug\net8.0\ChatService.pdb
 D:\code2222\CODE2026\DaiLiBaoHiem\ChatService\obj\Debug\net8.0\ChatService.genruntimeconfig.cache
 D:\code2222\CODE2026\DaiLiBaoHiem\ChatService\obj\Debug\net8.0\ref\ChatService.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\ChatService\bin\Debug\net8.0\RawRabbit.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\ChatService\bin\Debug\net8.0\RawRabbit.DependencyInjection.ServiceCollection.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\ChatService\bin\Debug\net8.0\RawRabbit.Operations.Subscribe.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\ChatService\bin\Debug\net8.0\RawRabbit.Operations.Tools.dll

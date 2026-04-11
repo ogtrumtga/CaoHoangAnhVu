@@ -95,3 +95,8 @@ D:\code2222\CODE2026\DaiLiBaoHiem\ProductService\obj\Debug\net8.0\refint\Product
 D:\code2222\CODE2026\DaiLiBaoHiem\ProductService\obj\Debug\net8.0\ProductService.pdb
 D:\code2222\CODE2026\DaiLiBaoHiem\ProductService\obj\Debug\net8.0\ProductService.genruntimeconfig.cache
 D:\code2222\CODE2026\DaiLiBaoHiem\ProductService\obj\Debug\net8.0\ref\ProductService.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\ProductService\bin\Debug\net8.0\RabbitMQ.Client.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\ProductService\bin\Debug\net8.0\RawRabbit.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\ProductService\bin\Debug\net8.0\RawRabbit.DependencyInjection.ServiceCollection.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\ProductService\bin\Debug\net8.0\RawRabbit.Operations.Subscribe.dll
+D:\code2222\CODE2026\DaiLiBaoHiem\ProductService\bin\Debug\net8.0\RawRabbit.Operations.Tools.dll

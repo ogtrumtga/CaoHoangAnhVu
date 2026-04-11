@@ -53,6 +53,18 @@
             "MediatR": {
               "target": "Package",
               "version": "[12.3.0, )"
+            },
+            "RawRabbit.DependencyInjection.ServiceCollection": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
+            },
+            "RawRabbit.Operations.Subscribe": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
+            },
+            "RawRabbit.Operations.Tools": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
             }
           },
           "imports": [
@@ -139,6 +151,18 @@
             "Microsoft.NET.Test.Sdk": {
               "target": "Package",
               "version": "[17.10.0, )"
+            },
+            "RawRabbit.DependencyInjection.ServiceCollection": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
+            },
+            "RawRabbit.Operations.Subscribe": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
+            },
+            "RawRabbit.Operations.Tools": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
             },
             "Testcontainers.Elasticsearch": {
               "target": "Package",
@@ -258,6 +282,18 @@
               "target": "Package",
               "version": "[13.0.3, )"
             },
+            "RawRabbit.DependencyInjection.ServiceCollection": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
+            },
+            "RawRabbit.Operations.Subscribe": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
+            },
+            "RawRabbit.Operations.Tools": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
+            },
             "Steeltoe.Discovery.ClientBase": {
               "target": "Package",
               "version": "[3.2.7, )"
@@ -347,6 +383,18 @@
             "Newtonsoft.Json": {
               "target": "Package",
               "version": "[13.0.3, )"
+            },
+            "RawRabbit.DependencyInjection.ServiceCollection": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
+            },
+            "RawRabbit.Operations.Subscribe": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
+            },
+            "RawRabbit.Operations.Tools": {
+              "target": "Package",
+              "version": "[2.0.0-rc5, )"
             }
           },
           "imports": [
